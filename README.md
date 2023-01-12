@@ -5,6 +5,8 @@ To open the model, please download TreeAge Pro Healthcare. Make sure to chose "V
 
 https://www.treeage.com/trial-download/
 
-If password is requested, type CLL (capitalized)
+Open the program, open the downloaded .trvx file. If password is requested, type CLL (capitalized)
+
+In the top right corner, chose "analyze" to see all input parameters. 
 
 For further questions, please contact matilde@nih-economics.dk
